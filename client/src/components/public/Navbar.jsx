@@ -13,7 +13,7 @@ const links = [
   { to: '/contact', label: 'Contact' },
 ];
 
-export default function Navbar({ name = 'SAROJ.K' }) {
+export default function Navbar({ name = 'SUDHANSHU.R' }) {
   const [open, setOpen] = useState(false);
 
   return (

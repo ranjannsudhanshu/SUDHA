@@ -127,4 +127,6 @@ Never commit `.env` files — only `.env.example` is tracked in git.
   straight to Cloudinary; MongoDB only stores the resulting URL and public ID.
 - To swap image storage providers later, only `server/src/config/cloudinary.js` needs
   to change — controllers reference `req.file.path` / `req.file.filename` generically.
-# SUDHA
+"# portfolio" 
+# portfolio
+# profile
